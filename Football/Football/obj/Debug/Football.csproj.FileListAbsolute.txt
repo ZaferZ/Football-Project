@@ -1,0 +1,8 @@
+C:\Users\zafer\source\repos\Football\Football\bin\Debug\Football.exe.config
+C:\Users\zafer\source\repos\Football\Football\bin\Debug\Football.exe
+C:\Users\zafer\source\repos\Football\Football\bin\Debug\Football.pdb
+C:\Users\zafer\source\repos\Football\Football\obj\Debug\Football.csproj.AssemblyReference.cache
+C:\Users\zafer\source\repos\Football\Football\obj\Debug\Football.csproj.SuggestedBindingRedirects.cache
+C:\Users\zafer\source\repos\Football\Football\obj\Debug\Football.csproj.CoreCompileInputs.cache
+C:\Users\zafer\source\repos\Football\Football\obj\Debug\Football.exe
+C:\Users\zafer\source\repos\Football\Football\obj\Debug\Football.pdb
